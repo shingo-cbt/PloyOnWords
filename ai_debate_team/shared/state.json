@@ -1,0 +1,39 @@
+{
+  "session_id": "",
+  "theme": {
+    "target": "",
+    "general_perception": "",
+    "bias_score": 0,
+    "defense_angles": []
+  },
+  "strategy": {
+    "winning_logic": "",
+    "emotion_curve": [],
+    "pivot_points": [],
+    "fallacies_planned": []
+  },
+  "dialogue": {
+    "current_turn": 0,
+    "max_turns": 8,
+    "turns": []
+  },
+  "scores": {
+    "conviction_rate": 0,
+    "discomfort_rate": 0,
+    "balance_status": "OK"
+  },
+  "everyman_state": {
+    "resistance_level": "L1",
+    "breaking_points_triggered": []
+  },
+  "consistency": {
+    "claims_made": [],
+    "contradictions_detected": [],
+    "flag": "GREEN"
+  },
+  "output": {
+    "dialogue_text": "",
+    "punchline": "",
+    "meta_commentary": ""
+  }
+}
